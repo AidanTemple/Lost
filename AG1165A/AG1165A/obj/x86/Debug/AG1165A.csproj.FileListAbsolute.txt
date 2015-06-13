@@ -1,0 +1,254 @@
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Punch.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Smash.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Break.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\KeyDrop.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\KeyPickup.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Theme.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Stun.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuSelect.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Menu.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuDown.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuUp.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Walk.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\SplashScreen.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Idle_Animation_B.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Stun_Animation_B.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Walk_Animation_B.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerADefault.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerAStun.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerAWin.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBDefault.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBStun.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBWin.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Objects.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Level.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Idle_Animation_A.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Punch_Animation_A.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Stun_Animation_A.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Walk_Animation_A.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Controller_Buttons.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Controls.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Statistics.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Overlay.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Credits.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\ViewportEdge.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Punch_Animation_B.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerALose.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBLose.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Key\Key_Idle.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Smoke_Cloud.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Blue.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Yellow.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Arrow_Blue.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Arrow_Yellow.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD_Blue.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Theme.wma
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Maps\layer_1.txt
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Maps\layer_0.txt
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Selected.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Unselected.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Timer.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Countdown.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Debug.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\IdentifierFont.xnb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Theme.mp3
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Stun.mp3
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuSelect.mp3
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Menu.mp3
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuDown.mp3
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuUp.mp3
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles.png
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerALose.png
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBLose.png
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Smoke_Cloud.png
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.exe.manifest
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.application
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.exe
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.pdb
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.csprojResolveAssemblyReference.cache
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.exe.manifest
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.application
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.exe
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.pdb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Punch.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Smash.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Break_01.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\KeyDrop.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\KeyPickup.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Stun.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuSelect.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Menu.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuDown.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuUp.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Break_02.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownLong.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownShort.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Walk.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Theme.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\SplashScreen.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Idle_Animation_B.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Stun_Animation_B.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Walk_Animation_B.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerADefault.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerAStun.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerAWin.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBDefault.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBStun.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBWin.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Objects.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Level.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Idle_Animation_A.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Punch_Animation_A.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Stun_Animation_A.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Walk_Animation_A.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Controller_Buttons.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerControls.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Statistics.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Credits.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\ViewportEdge.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Punch_Animation_B.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerALose.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBLose.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Key\Key_Idle.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Smoke_Cloud.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Blue.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Yellow.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Arrow_Blue.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Arrow_Yellow.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD_Blue.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD_Yellow.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD_Key.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerPauseOverlay.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardPauseOverlay.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerBackScreen.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerSelectScreen.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardBackScreen.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardSelectScreen.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardControls.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles 3.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Interior_Walls.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Maps\layer_1.txt
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Maps\layer_0.txt
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Selected.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Unselected.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Score_Small.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Timer.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Countdown.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Debug.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\IdentifierFont.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Stun.mp3
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuSelect.mp3
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Menu.mp3
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuDown.mp3
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuUp.mp3
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownLong.mp3
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownShort.mp3
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles.png
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerALose.png
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBLose.png
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Smoke_Cloud.png
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.exe.manifest
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.application
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.exe
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\bin\x86\Debug\AG1165A.pdb
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.csprojResolveAssemblyReference.cache
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.exe.manifest
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.application
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.exe
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165A\obj\x86\Debug\AG1165A.pdb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Punch.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Smash.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Break_01.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\KeyDrop.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\KeyPickup.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Stun.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuSelect.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Menu.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuDown.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuUp.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Break_02.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownLong.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownShort.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Walk.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Theme.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\SplashScreen.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Idle_Animation_B.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Stun_Animation_B.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Walk_Animation_B.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerADefault.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerAStun.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerAWin.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBDefault.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBStun.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBWin.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Objects.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Level.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Idle_Animation_A.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Punch_Animation_A.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Stun_Animation_A.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\Walk_Animation_A.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Controller_Buttons.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerControls.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Statistics.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Credits.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\ViewportEdge.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\Punch_Animation_B.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerALose.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBLose.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Key\Key_Idle.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Smoke_Cloud.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Blue.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Yellow.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Arrow_Blue.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Identifier_Arrow_Yellow.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD_Blue.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD_Yellow.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\HUD_Key.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerPauseOverlay.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardPauseOverlay.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerBackScreen.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\ControllerSelectScreen.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardBackScreen.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardSelectScreen.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\KeyboardControls.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles 3.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Backgrounds\Interior_Walls.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Maps\layer_1.txt
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Maps\layer_0.txt
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Selected.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Unselected.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Score_Small.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Timer.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Countdown.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Debug.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\IdentifierFont.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Stun.mp3
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuSelect.mp3
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\Menu.mp3
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuDown.mp3
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\MenuUp.mp3
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownLong.mp3
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Audio\CountdownShort.mp3
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Tiles.png
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Player\PlayerALose.png
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Opponent\PlayerBLose.png
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\Content\Textures\Animations\Smoke_Cloud.png
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\AG1165A.exe.manifest
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\AG1165A.application
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\AG1165A.exe
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\bin\x86\Debug\AG1165A.pdb
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\obj\x86\Debug\AG1165A.csprojResolveAssemblyReference.cache
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\obj\x86\Debug\AG1165A.exe.manifest
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\obj\x86\Debug\AG1165A.application
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\obj\x86\Debug\AG1165A.exe
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165A\obj\x86\Debug\AG1165A.pdb

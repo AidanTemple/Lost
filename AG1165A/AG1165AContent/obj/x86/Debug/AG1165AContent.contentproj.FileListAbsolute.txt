@@ -1,0 +1,3 @@
+C:\Users\Aidan\Desktop\AG1165A\src\AG1165A\AG1165AContent\obj\x86\Debug\AG1165AContent.contentprojResolveAssemblyReference.cache
+C:\Users\Aidan\Dropbox\MProf Games Development\AG1165A\S1\Source\AG1165A\src\AG1165A\AG1165AContent\obj\x86\Debug\AG1165AContent.contentprojResolveAssemblyReference.cache
+C:\Users\Aidan\Dropbox\Projects\Lost\AG1165A\AG1165AContent\obj\x86\Debug\AG1165AContent.contentprojResolveAssemblyReference.cache
